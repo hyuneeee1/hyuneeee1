@@ -32,9 +32,9 @@ Here are some ideas to get you started:
     <br>
 </div><br>
 
-## 💻 DEV RECORD 💻
+## 💻 DEV's record 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.notion.so/homputer/Notion-220967c7f5f82ce1525e3f6ca9f5ab1c3d66f34c">
+    <a href="https://www.notion.so/a47b5a3e0194493f84327e1961fc4582?pvs=4">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
