@@ -37,7 +37,16 @@ Here are some ideas to get you started:
     <br>
 </div><br>
 
-## 💻 DEV's record 💻
+## 💬 Need to Learn 💬
+<div style="display:flex; flex-direction:row;">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</div><br>
+
+## 💻 DEV's Record 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.notion.so/a47b5a3e0194493f84327e1961fc4582?pvs=4">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
