@@ -46,12 +46,13 @@ Here are some ideas to get you started:
 <br>
 <br>
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </div><br>
 
 ## 💻 DEV's Record 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.notion.so/a47b5a3e0194493f84327e1961fc4582?pvs=4">
-        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
 </div><br>
