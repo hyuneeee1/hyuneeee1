@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## 💻 DEV's Record 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.notion.so/a47b5a3e0194493f84327e1961fc4582?pvs=4">
+    <a href="https://www.notion.so/a47b5a3e0194493f84327e1961fc4582">
     <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
